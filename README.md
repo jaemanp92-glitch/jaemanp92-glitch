@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Jaeman Park
 
-<!--
-**jaemanp92-glitch/jaemanp92-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trust & Safety / Policy Operations Specialist  
+Background in AI Software Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I do
+- Policy interpretation and enforcement decision-making
+- Risk assessment for ambiguous or borderline content
+- Consistent Trust & Safety operational workflows
+
+---
+
+### 📂 Featured Work
+🔹 **Policy Decision Framework**
+- Structured Trust & Safety decision checklist
+- Realistic case studies documenting enforcement trade-offs
+
+👉 https://github.com/jaemanp92-glitch/Policy-decision-framework
+
+---
+
+### 🧠 Focus Areas
+- Trust & Safety operations
+- Policy enforcement under ambiguity
+- Risk-based content moderation
