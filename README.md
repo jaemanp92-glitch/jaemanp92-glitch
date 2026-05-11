@@ -1,8 +1,8 @@
 # Hi, I'm Jaeman Park 👋
 
-I’m building a portfolio focused on **AI Safety, Trust & Safety, Policy Operations, and Customer Operations workflows**.
+I'm building practical Python and Streamlit projects focused on **AI Safety, Trust & Safety, Policy Operations, and Customer Operations workflows**.
 
-My projects explore how policy-based decision-making, risk classification, reviewer escalation, audit logging, and customer support workflows can be supported with simple Python and Streamlit tools.
+My portfolio explores how real-world operations tasks such as **content risk classification, policy-based decision-making, customer support ticket triage, reviewer escalation, QA review, and audit logging** can be supported with lightweight internal tools.
 
 ## Focus Areas
 
@@ -12,17 +12,21 @@ My projects explore how policy-based decision-making, risk classification, revie
 - Content Risk Classification
 - Customer Support Escalation
 - Reviewer QA and Audit Logging
+- Customer Operations Workflow Tools
 
 ## Selected Projects
 
-### AI Policy Enforcement Simulator
-A Streamlit-based Trust & Safety decision support tool that classifies user-generated content by policy category, risk level, enforcement action, escalation requirement, and confidence score.
+### AI Customer Support & Loyalty Ticket Triage System
+A Streamlit-based customer support operations tool that classifies incoming support tickets by category, priority, and status. It includes a dedicated Loyalty / Rewards workflow for points, redemption, reward balance, and membership-related cases.
 
 ### AI Content Risk Classifier
-A basic content risk classification project designed to identify policy risk signals and recommend review actions.
+A Python and Streamlit-based Trust & Safety moderation prototype designed to identify policy risk signals and recommend review actions.
+
+### LLM Safety Evaluation
+A basic LLM safety evaluation project focused on analyzing model responses, safety risks, and evaluation categories.
 
 ### Trust & Safety Escalation System
-A workflow project focused on routing high-risk content cases based on risk level, policy category, and escalation requirements.
+A workflow tool that routes high-risk content cases based on risk level, policy category, and escalation requirements.
 
 ## Tech Stack
 
@@ -34,4 +38,4 @@ A workflow project focused on routing high-risk content cases based on risk leve
 
 ## Career Direction
 
-I’m interested in roles related to **AI Safety Evaluation, Trust & Safety, Policy Operations, Customer Operations, and LLM Safety Analysis**.
+I'm interested in roles related to **AI Safety Evaluation, Trust & Safety, Policy Operations, Customer Operations, and LLM Safety Analysis**.
