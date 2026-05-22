@@ -1,41 +1,21 @@
-# Hi, I'm Jaeman Park 👋
+# Hi, I'm Jaeman Park
 
-I'm building practical Python and Streamlit projects focused on **AI Safety, Trust & Safety, Policy Operations, and Customer Operations workflows**.
+Trust & Safety | AI Safety | Customer Operations
 
-My portfolio explores how real-world operations tasks such as **content risk classification, policy-based decision-making, customer support ticket triage, reviewer escalation, QA review, and audit logging** can be supported with lightweight internal tools.
+Former TikTok Trust & Safety professional currently working in customer operations and building AI safety-focused projects.
 
 ## Focus Areas
-
-- AI Safety Evaluation
 - Trust & Safety Operations
-- Policy Enforcement Workflows
-- Content Risk Classification
-- Customer Support Escalation
-- Reviewer QA and Audit Logging
-- Customer Operations Workflow Tools
+- AI Content Moderation
+- Policy Enforcement
+- AI Safety Evaluation
+- Customer Operations
 
-## Selected Projects
-
-### AI Customer Support & Loyalty Ticket Triage System
-A Streamlit-based customer support operations tool that classifies incoming support tickets by category, priority, and status. It includes a dedicated Loyalty / Rewards workflow for points, redemption, reward balance, and membership-related cases.
-
-### AI Content Risk Classifier
-A Python and Streamlit-based Trust & Safety moderation prototype designed to identify policy risk signals and recommend review actions.
-
-### LLM Safety Evaluation
-A basic LLM safety evaluation project focused on analyzing model responses, safety risks, and evaluation categories.
-
-### Trust & Safety Escalation System
-A workflow tool that routes high-risk content cases based on risk level, policy category, and escalation requirements.
+## Featured Projects
+- Trust & Safety Escalation Review System
+- AI Content Moderation Tool
+- LLM Safety Evaluation
+- B2B Support Workflow Simulator
 
 ## Tech Stack
-
-- Python
-- Streamlit
-- Pandas
-- GitHub
-- Replit
-
-## Career Direction
-
-I'm interested in roles related to **AI Safety Evaluation, Trust & Safety, Policy Operations, Customer Operations, and LLM Safety Analysis**.
+Python • Streamlit • Pandas • GitHub
