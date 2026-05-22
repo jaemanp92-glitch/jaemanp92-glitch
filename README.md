@@ -12,10 +12,12 @@ Former TikTok Trust & Safety professional currently working in customer operatio
 - Customer Operations
 
 ## Featured Projects
-- Trust & Safety Escalation Review System
-- AI Content Moderation Tool
-- LLM Safety Evaluation
-- B2B Support Workflow Simulator
+- [Trust & Safety Escalation Review System](https://github.com/jaemanp92-glitch/Trust-safety-escalation-system)
 
+- [AI Content Moderation Tool](https://github.com/jaemanp92-glitch/ai-content-risk-classifier)
+
+- [LLM Safety Evaluation](https://github.com/jaemanp92-glitch/llm-safety-evaluation)
+
+- [B2B Support Workflow Simulator](https://github.com/jaemanp92-glitch/b2b-support-workflow-simulator)
 ## Tech Stack
 Python • Streamlit • Pandas • GitHub
